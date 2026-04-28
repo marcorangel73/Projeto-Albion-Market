@@ -17,10 +17,10 @@ Este roteiro detalha as etapas para a criação do app, focando em autenticaçã
     *   Criação das telas de Login e Cadastro.
     *   Proteção de rotas (apenas usuários logados acessam o dashboard).
 
-## Fase 3: Interface de Filtros (Requisito 2)
-1.  **Componente de Busca de Item:**
+## Fase 3: Interface de Filtros (Requisito 2) [CONCLUÍDO]
+1.  **Componente de Busca de Item:** [CONCLUÍDO]
     *   Campo de pesquisa com sugestões dinâmicas.
-2.  **Seletores de Atributos:**
+2.  **Seletores de Atributos:** [CONCLUÍDO]
     *   Dropdowns para:
         *   **Nível (Tier):** T1 a T8.
         *   **Encantamento:** .0 a .4.
@@ -45,5 +45,5 @@ Este roteiro detalha as etapas para a criação do app, focando em autenticaçã
     *   Deploy na Vercel.
 
 ---
-**Status Atual:** Base de dados de itens (`src/data/items.json`) preparada.
-**Próximo Passo sugerido:** Setup da Autenticação (Fase 2) ou pular para a Interface de Busca (Fase 3) para testar a funcionalidade principal primeiro?
+**Status Atual:** Interface de busca e filtros de itens implementada (Fase 3 concluída).
+**Próximo Passo:** Fase 4: Integração e Lógica de Preços (Consulta à API do Albion Data Project).

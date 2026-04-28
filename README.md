@@ -15,8 +15,8 @@ O **Albion Market Helper** é uma ferramenta web projetada para auxiliar jogador
 ## ✨ Funcionalidades (Em desenvolvimento)
 
 - [x] **Base de Dados de Itens:** Processamento e filtragem de metadados do jogo (Item IDs e nomes traduzidos).
-- [ ] **Busca Inteligente:** Campo de pesquisa com sugestões dinâmicas para localizar itens rapidamente.
-- [ ] **Filtros Avançados:** Seleção por Tier, Encantamento e Qualidade.
+- [x] **Busca Inteligente:** Campo de pesquisa com sugestões dinâmicas para localizar itens rapidamente.
+- [x] **Filtros Avançados:** Seleção por Tier, Encantamento e Qualidade.
 - [ ] **Comparador de Preços:** Visualização de preços em tempo real em todas as cidades principais.
 - [ ] **Destaque de Lucro:** Cálculo automático para identificar onde comprar mais barato e onde vender mais caro.
 
