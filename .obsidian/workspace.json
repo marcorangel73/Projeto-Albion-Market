@@ -183,13 +183,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0dd2a712161b43f7",
+  "active": "c3541159591da621",
   "lastOpenFiles": [
-    "Projeto Albion/Requisitos do Projeto Albion.md",
-    "Projeto Albion/Roteiro de Desenvolvimento.md",
-    "README.md",
+    "albion-market-app/src/app/api/prices/route.ts",
+    "albion-market-app/src/app/api/prices",
+    "albion-market-app/src/app/api",
+    "albion-market-app/README.md",
     "albion-market-app/AGENTS.md",
     "albion-market-app/CLAUDE.md",
-    "albion-market-app/README.md"
+    "Projeto Albion/Roteiro de Desenvolvimento.md",
+    "Projeto Albion/Requisitos do Projeto Albion.md",
+    "README.md"
   ]
 }
